@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "College Football Recruiting vs. Wins Analyzer",
+    "description": "Statistical modeling project using 14 years of recruiting and game data across 255 FBS programs. Pulled data via cfbd API, trained logistic regression models with scikit-learn, and built an interactive Streamlit dashboard. Validated predictions against Vegas spreads.",
+    "tech": ["Python", "Pandas", "scikit-learn", "cfbd API", "Streamlit"],
+    "link": "/projects/recruiting-model",
+    "github": "https://github.com/mcisnerosy/recruiting-class-analyzer",
+    "demo": "https://recruiting-class-analyzer-lkeemy72oemz9iusy36uax.streamlit.app/",
+    "caseStudy": true,
+    "status": "AUC 0.70, 64.2% accuracy — validated against Vegas spreads"
+  },
+  {
+    "id": 2,
+    "title": "Housing Prices Data Analysis",
+    "description": "Data engineering and analysis of 50,000+ housing records using Pandas, including automated data-cleaning pipelines. Published findings as an interactive HTML dashboard on GitHub. End-to-end workflow from raw data to insight.",
+    "tech": ["Python", "Pandas", "Matplotlib", "Data Pipelines"],
+    "link": "https://github.com/mcisnerosy/housing-prices-analysis",
+    "caseStudy": false,
+    "status": "Spring 2024"
+  },
+  {
+    "id": 3,
+    "title": "Football Player Stats Database",
+    "description": "Built a C program managing offensive and defensive player databases with position-specific stat tracking and automatic calculation of derived metrics including passer rating, completion percentage, and yards per carry.",
+    "tech": ["C", "Data Structures"],
+    "link": "https://github.com/mcisnerosy/football-player-stats",
+    "caseStudy": false,
+    "status": "Fall 2024"
+  }
+]

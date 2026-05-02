@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "role": "Recruiting Intern",
+    "org": "Notre Dame Football",
+    "period": "Fall 2023 – Present",
+    "bullets": [
+      "Hosted 4 and 5 star recruits and their families across game days, spring practices, and official visits, representing Notre Dame at a consistently high standard throughout multi-day visit weekends",
+      "Coordinated logistics for official visit weekends and game day operations, managing prospect databases in Google Sheets tracking attendance, transcripts, and performance data",
+      "Watched and clipped game film on Hudl across multiple position groups each week, picking the best clips to pass along to recruiting staff evaluating prospects for Notre Dame's top-10 recruiting classes"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "IT Technician Intern",
+    "org": "Quadrivium Inc.",
+    "period": "Summer 2023",
+    "bullets": [
+      "Maintained asset management records for 50-100 legacy devices, correcting initialization and decommission data to improve inventory accuracy across multiple client businesses"
+    ]
+  }
+]
